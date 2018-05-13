@@ -1,0 +1,13 @@
+/**
+ * 用户信息
+ *
+ * @url /v1/test
+ * GET
+ */
+
+{
+  "status": 1,
+  "data": {
+    "key": "value"
+  }
+}
