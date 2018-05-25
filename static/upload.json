@@ -1,0 +1,9 @@
+{
+  "Result":true,
+  "Status": 1,
+  "Msg": "上传成功",
+  "Data": {
+    "savePath": "/img/baidu_jgylogo3.gif",
+    "previewPath":"https://www.baidu.com/img/baidu_jgylogo3.gif"
+  }
+}
