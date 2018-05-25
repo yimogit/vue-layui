@@ -5,7 +5,7 @@
                 <i class="layui-edge"></i>
             </div>
             <dl class="layui-anim layui-anim-upbit" v-show="selectShow">
-                <dd v-for="item in options" :class="{'layui-this':currentValue.Value==item.Value}" @click="currentSelect(item)"  value="item.Value">{{item.Text}}</dd>
+                <dd v-for="item in options" :class="{'layui-this':currentValue.Value==item.Value}" @click="currentSelect(item)"  :value="item.Value">{{item.Text}}</dd>
             </dl>
         </div>
 </template>
